@@ -27,6 +27,6 @@ app.use((req, res ,next) => {
     })
 }) ; 
 
-
+console.log('HELLO CODEX');
 
 module.exports = app ;
